@@ -2,7 +2,7 @@
 title:       AlexanderJLong
 email:       alex.long@unsw.edu.au
 author:      Alex Long
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Personal Blog for Alex Long - PhD student at UNSW focusing on Deep Reinforcement Learning"
 baseurl:     ""
 url:         "AlexanderJLong.github.io"
 date_format: "%b %-d, %Y"
@@ -25,7 +25,7 @@ show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
 ajaxify_contact_form: false
-enable_mathjax: false
+enable_mathjax: true
 extended_fonts: false
 enable_anchorjs: false
 # Preview image for social media aka og:image and twitter:image
