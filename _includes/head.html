@@ -1,4 +1,17 @@
 <head>
+   <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+   <script type="text/x-mathjax-config">
+     MathJax.Hub.Config({
+       tex2jax: {
+         inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+         processEscapes: true
+       }
+
+     });
+   </script>
+   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_SVG" type="text/javascript"></script>
+
+
     {% if site.google_tag_manager %}
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
