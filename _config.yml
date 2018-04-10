@@ -1,5 +1,5 @@
 # Site settings
-title:       AlexanderJLong
+title:       Alex Long
 email:       alex.long@unsw.edu.au
 author:      Alex Long
 description: "Personal Blog for Alex Long - PhD student at UNSW focusing on Deep Reinforcement Learning"
@@ -8,7 +8,6 @@ url:         "AlexanderJLong.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
 
 # Google services
 google_verification:
